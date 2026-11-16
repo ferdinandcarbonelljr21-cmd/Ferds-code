@@ -2,7 +2,6 @@ print("-" * 35)
 print("       PYTHON TUTORIAL")
 print("-" * 35)
 
-# The main loop allows the program to repeat.
 running = True
 while running:
 
